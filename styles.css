@@ -71,3 +71,12 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+
+.comprar {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer;
+}
